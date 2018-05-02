@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace EmpresaGalletas.Controllers
 {
-    public class ProdcutosController : Controller
+    public class ProductosController : Controller
     {
         // GET: Prodcutos
         public ActionResult Index()
